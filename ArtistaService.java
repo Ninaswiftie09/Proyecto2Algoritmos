@@ -21,14 +21,10 @@ public class ArtistaService {
                 Node artistNode = record.get("a").asNode();
                 System.out.println("Artista: " + artistNode.get("nombre").asString());
                 System.out.println("Género: " + artistNode.get("genero").asString());
-                // No se puede obtener la "década" ya que no está presente en los datos
                 System.out.println("Ubicación: " + artistNode.get("ubicacion").asString());
                 System.out.println("Mood: " + artistNode.get("mood").asString());
                 System.out.println("Canción Destacada: " + artistNode.get("cancionDestacada").asString());
             }
-        } catch (Exception e) {
-            // Manejo de excepciones
-            e.printStackTrace();
         }
     }
 }
