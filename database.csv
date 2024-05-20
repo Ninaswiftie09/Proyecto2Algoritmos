@@ -1,0 +1,53 @@
+ARTIST,LOCATION,POPULAR_SONG,MOOD,GENRE,INFLUENCED_BY,COLLABORATED_WITH,STYLE,DECADE
+Shakira,Colombia,La La La,Feliz,Pop,Gloria Estefan, Madonna,"Belly Dance, Pop Rock",1990s
+The Beatles,England,Hey Jude,Feliz,Rock,Elvis Presley, Chuck Berry,"Rock, Pop Rock",1960s
+BTS,South Korea,Dynamite,Energetico,Pop,Seo Taiji and Boys, H.O.T.,"K-pop, Hip Hop",2010s
+Ludwig van Beethoven,Germany,Für Elise,Calmante,Classical,"Classical, Romantic",1800s
+Kendrick Lamar,United States,Alright,Motivacional,Hip Hop,Tupac Shakur, Nas,"Hip Hop, Conscious Rap",2010s
+The Beatles,UK,Hey Jude,Feliz,Rock,Elvis Presley, Chuck Berry,"Rock, Pop Rock",1960s
+Michael Jackson,USA,Billie Jean,Feliz,Pop,James Brown, Jackie Wilson,"Pop, R&B, Dance",1980s
+Queen,UK,Bohemian Rhapsody,Feliz,Rock,The Beatles, Led Zeppelin,"Rock, Opera Rock",1970s
+Madonna,USA,Like a Prayer,Feliz,Pop,David Bowie, Michael Jackson,"Pop, Dance",1980s
+Bob Dylan,USA,Like a Rolling Stone,Triste,Folk,Woody Guthrie, Pete Seeger,"Folk, Rock",1960s
+Led Zeppelin,UK,Stairway to Heaven,Feliz,Rock,The Beatles, Muddy Waters,"Rock, Hard Rock, Blues Rock",1970s
+Pink Floyd,UK,Comfortably Numb,Feliz,Rock Progresivo,The Beatles, Syd Barrett,"Psychedelic Rock, Progressive Rock",1970s
+David Bowie,UK,Space Oddity,Feliz,Rock,Little Richard, The Beatles,"Rock, Glam Rock, Art Rock",1970s
+Prince,USA,Purple Rain,Feliz,Pop,James Brown, Sly Stone,"Pop, Funk, Rock",1980s
+The Eagles,USA,Hotel California,Feliz,Rock,The Beatles, The Byrds,"Rock, Country Rock",1970s
+Adele,UK,Someone Like You,Triste,Pop,Etta James, Aretha Franklin,"Pop, Soul",2010s
+Beyoncé,USA,Single Ladies (Put a Ring on It),Feliz,R&B,Diana Ross, Michael Jackson,"R&B, Pop",2000s
+U2,Ireland,With or Without You,Feliz,Rock,The Beatles, Joy Division,"Rock, Alternative Rock",1980s
+Whitney Houston,USA,I Will Always Love You,Feliz,Pop,Aretha Franklin, Gladys Knight,"Pop, R&B",1990s
+Nirvana,USA,Smells Like Teen Spirit,Feliz,Grunge,The Pixies, The Melvins,"Grunge, Alternative Rock",1990s
+The Doors,USA,Light My Fire,Feliz,Rock,The Beatles, The Rolling Stones,"Psychedelic Rock, Blues Rock",1960s
+Elton John,UK,Your Song,Feliz,Pop,The Beatles, Leon Russell,"Pop, Rock",1970s
+The Beach Boys,USA,Good Vibrations,Feliz,Surf Rock,Chuck Berry, Phil Spector,"Surf Rock, Pop Rock",1960s
+Frank Sinatra,USA,My Way,Feliz,Jazz,Bing Crosby, Billie Holiday,"Jazz, Vocal Jazz",1940s
+AC/DC,Australia,Back in Black,Feliz,Hard Rock,Led Zeppelin, The Who,"Hard Rock, Blues Rock",1970s
+Fleetwood Mac,UK,Go Your Own Way,Feliz,Rock,The Beatles, The Rolling Stones,"Rock, Pop Rock",1970s
+Stevie Wonder,USA,Superstition,Feliz,Soul,Ray Charles, Marvin Gaye,"Soul, R&B, Funk",1970s
+Radiohead,UK,Creep,Feliz,Rock Alternativo,The Smiths, R.E.M.,"Alternative Rock, Art Rock",1990s
+Metallica,USA,Enter Sandman,Feliz,Metal,Black Sabbath, Diamond Head,"Heavy Metal, Thrash Metal",1980s
+Johnny Cash,USA,Ring of Fire,Feliz,Country,Hank Williams, Woody Guthrie,"Country, Outlaw Country, Folk",1960s
+Aretha Franklin,USA,Respect,Feliz,Soul,Mahalia Jackson, Sam Cooke,"Soul, R&B, Gospel",1960s
+The Police,UK,Every Breath You Take,Feliz,Rock,The Jam, The Clash,"Rock, Reggae Rock",1980s
+Bruce Springsteen,USA,Born to Run,Feliz,Rock,Bob Dylan, The Rolling Stones,"Rock, Heartland Rock",1970s
+Kanye West,USA,Gold Digger,Feliz,Hip Hop,A Tribe Called Quest, Jay-Z,"Hip Hop, Rap",2000s
+Taylor Swift,USA,Love Story,Feliz,Pop,Shania Twain, Alanis Morissette,"Pop, Country Pop",2000s
+Rihanna,Barbados,Umbrella,Feliz,Pop,Mariah Carey, Janet Jackson,"Pop, R&B, Dance",2000s
+Coldplay,UK,Fix You,Feliz,Pop Rock,U2, Radiohead,"Pop Rock, Alternative Rock",2000s
+Maluma,Colombia,Felices los 4,Feliz,Reggaetón,Daddy Yankee, Don Omar,"Reggaetón, Pop Latino",2010s
+Ed Sheeran,UK,Shape of You,Feliz,Pop,Damien Rice, Passenger,"Pop, Folk Pop",2010s
+Juanes,Colombia,La Camisa Negra,Triste,Pop Rock,Bob Dylan, Bob Marley,"Pop Rock, Latin Rock",2000s
+Dua Lipa,UK,New Rules,Feliz,Pop,Madonna, Kylie Minogue,"Pop, Dance",2010s
+Maná,Mexico,Labios Compartidos,Feliz,Rock Latino,The Police, U2,"Rock Latino, Pop Rock",1990s
+Enrique Iglesias,Spain,Bailando,Enamorado,Pop Latino,Juan Gabriel, Luis Miguel,"Pop Latino, Dance",2010s
+BTS,South Korea,Dynamite,Feliz,K-Pop,Seo Taiji and Boys, H.O.T.,"K-pop, Hip Hop",2010s
+Daddy Yankee,Puerto Rico,Gasolina,Feliz,Reggaetón,Vico C, Ivy Queen,"Reggaetón, Reggae",2000s
+Camilo,Colombia,Vida de Rico,Enamorado,Pop,Ricardo Arjona, Alejandro Sanz,"Pop Latino, Balada",2020s
+J Balvin,Colombia,Mi Gente,Feliz,Reggaetón,Daddy Yankee, Pitbull,"Reggaetón, Pop Latino",2010s
+Natalia Lafourcade,Mexico,Hasta la Raíz,Triste,Pop Latino,Lila Downs, Chavela Vargas,"Pop Latino, Folclórica",2000s
+Camila Cabello,Cuba,Havana,Feliz,Pop,Gloria Estefan, Ricky Martin,"Pop, Latin Pop",2010s
+Bad Bunny,Puerto Rico,Dákiti,Enojado,Reggaetón,Daddy Yankee, Residente,"Reggaetón, Trap Latino",2020s
+Rosalia,Spain,Malamente,LGBT,Flamenco,Lole y Manuel, Camarón de la Isla,"Flamenco, Pop Español",2010s
+Luis Miguel,Mexico,La Incondicional,Feliz,Pop Latino,José José, Juan Gabriel
