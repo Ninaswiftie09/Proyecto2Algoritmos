@@ -4,14 +4,23 @@ public class Artista {
     private String ubicacion;
     private String mood;
     private String cancionDestacada;
+    private String influencedBy;
+    private String collaboratedWith;
+    private String style;
+    private int decade;
 
     // Constructor
-    public Artista(String nombre, String genero, String ubicacion, String mood, String cancionDestacada) {
+    public Artista(String nombre, String genero, String ubicacion, String mood, String cancionDestacada,
+            String influencedBy, String collaboratedWith, String style, int decade) {
         this.nombre = nombre;
         this.genero = genero;
         this.ubicacion = ubicacion;
         this.mood = mood;
         this.cancionDestacada = cancionDestacada;
+        this.influencedBy = influencedBy;
+        this.collaboratedWith = collaboratedWith;
+        this.style = style;
+        this.decade = decade;
     }
 
     // Getters
@@ -33,5 +42,21 @@ public class Artista {
 
     public String getCancionDestacada() {
         return cancionDestacada;
+    }
+
+    public String getInfluencedBy() {
+        return influencedBy;
+    }
+
+    public String getCollaboratedWith() {
+        return collaboratedWith;
+    }
+
+    public String getStyle() {
+        return style;
+    }
+
+    public int getDecade() {
+        return decade;
     }
 }

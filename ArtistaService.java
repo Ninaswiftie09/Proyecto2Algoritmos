@@ -24,6 +24,10 @@ public class ArtistaService {
                 System.out.println("Ubicación: " + artistNode.get("ubicacion").asString());
                 System.out.println("Mood: " + artistNode.get("mood").asString());
                 System.out.println("Canción Destacada: " + artistNode.get("cancionDestacada").asString());
+                System.out.println("Influenced By: " + artistNode.get("influencedBy").asString());
+                System.out.println("Collaborated With: " + artistNode.get("collaboratedWith").asString());
+                System.out.println("Style: " + artistNode.get("style").asString());
+                System.out.println("Decade: " + artistNode.get("decade").asInt());
             }
         }
     }

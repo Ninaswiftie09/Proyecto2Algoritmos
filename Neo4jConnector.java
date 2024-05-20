@@ -7,10 +7,9 @@ public class Neo4jConnector {
     private final Driver driver;
 
     public Neo4jConnector() {
-        String uri = "neo4j+s://0cc488f6.databases.neo4j.io:7687";
-
+        String uri = "neo4j+s://ad86f838.databases.neo4j.io";
         String username = "neo4j";
-        String password = "fq88Qs_Hv105Tqc8dL8KH27Ir0eoyneu9gNkQFGxY3g";
+        String password = "69W0amO7JsyNTTrsb506RR_6hUBxlzfZTPM-znz-Unw";
         this.driver = GraphDatabase.driver(uri, AuthTokens.basic(username, password));
     }
 
