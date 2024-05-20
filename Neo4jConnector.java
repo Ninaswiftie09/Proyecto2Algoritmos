@@ -7,11 +7,12 @@ public class Neo4jConnector {
     private final Driver driver;
 
     public Neo4jConnector() {
-        // Modifica la URL de conexión para apuntar a tu base de datos remota
-        // Reemplaza "bolt://localhost:7687" con tu URL de conexión remota
-        // Asegúrate de proporcionar las credenciales correctas
-        this.driver = GraphDatabase.driver("bolt://0cc488f6.databases.neo4j.io:7687",
-                AuthTokens.basic("<usuario>", "fq88Qs_Hv105Tqc8dL8KH27Ir0eoyneu9gNkQFGxY3g"));
+        // Configura la URL de conexión con tu instancia en la nube de Neo4j
+        String uri = "neo4j+s://0cc488f6.databases.neo4j.io:7687";
+        // Proporciona las credenciales de autenticación
+        String username = "neo4j";
+        String password = "fq88Qs_Hv105Tqc8dL8KH27Ir0eoyneu9gNkQFGxY3g";
+        this.driver = GraphDatabase.driver(uri, AuthTokens.basic(username, password));
     }
 
     public Session getSession() {
